@@ -14,6 +14,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.Random;
 
+// This was a pain in the behind to make, Oh my god. First project :)
+
 public class main_ligma extends AppCompatActivity {
 
 
